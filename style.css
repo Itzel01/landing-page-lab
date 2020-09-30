@@ -22,3 +22,19 @@ h1{
 p{
     font-size: 40px;
 }
+
+main{
+    width: 1136px;
+    margin: auto;
+    background-color: green;
+}
+
+aside{
+    width: 325px;
+    height: 565px;
+    background-color: #64b0a7;
+}
+
+li{
+    font-size: 35px;
+}
